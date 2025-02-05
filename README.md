@@ -10,16 +10,6 @@ Make sure you have Python 3.6 or higher installed. You can install the necessary
 pip install -r requirements.txt
 ```
 
-Create a requirements.txt file with the following contents:
-
-```
-beautifulsoup4
-requests
-pillow
-torch
-torchvision
-```
-
 ## Usage
 1. Clone the repository:
 ```
