@@ -31,7 +31,7 @@ python scrape_classify.py
 
 ### Example
 ```
-Enter the URL to scrape images from: https://example.com
+Enter the URL to scrape images from: https://adastrafirst.wordpress.com/
 ```
 
 The script will scrape images from the provided URL, download them to the images folder, classify them using the ResNet-50 model, and rename them based on their predicted content.
